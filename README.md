@@ -35,3 +35,13 @@ Para instalar e executar o Blog Generator, siga os passos abaixo:
    ```bash
    git clone https://github.com/seu-usuario/blog-generator.git
    cd blog-generator
+
+
+## Uso
+
+## Contribuição
+
+## Licença
+
+
+## Autores
